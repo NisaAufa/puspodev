@@ -1,0 +1,526 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-3940256099942544/630097811x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/103317371x",
+      "native_for_admob":"ca-app-pub-3940256099942544/224769611x",
+      "backup_ads_banner":"ca-app-pub-3940256099942544/630097811x",
+      "backup_ads_intertitial":"ca-app-pub-3940256099942544/103317371x",
+      "interval_intertitial": 15,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Seventeen Wallpaper 1",
+      "image": "file:///android_asset/image/itxem1.webp"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Seventeen Wallpaper 2",
+      "image": "file:///android_asset/image/itxem51.webp"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem1.webp"
+    },
+    {
+      "id": 2,
+      "name_category": "Seventeen Wallpaper 1",
+      "title": "Seventeen Wallpaper",
+      "image": "file:///android_asset/image/itxem2.webp"
+    },
+    {
+      "id":3,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem3.webp"
+    },
+    {
+      "id":4,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem4.webp"
+    },
+    {
+      "id":5,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem5.webp"
+    },
+    {
+      "id":6,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem6.webp"
+    },
+    {
+      "id":7,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem7.webp"
+    },
+    {
+      "id":8,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem8.webp"
+    },
+    {
+      "id":9,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem9.webp"
+    },
+    {
+      "id":10,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem10.webp"
+    },
+	{
+      "id":11,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem11.webp"
+    },
+    {
+      "id": 12,
+      "name_category": "Seventeen Wallpaper 1",
+      "title": "Seventeen Wallpaper",
+      "image": "file:///android_asset/image/itxem12.webp"
+    },
+    {
+      "id":13,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem13.webp"
+    },
+    {
+      "id":14,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem14.webp"
+    },
+    {
+      "id":15,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem15.webp"
+    },
+    {
+      "id":16,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem16.webp"
+    },
+    {
+      "id":17,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem17.webp"
+    },
+    {
+      "id":18,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem18.webp"
+    },
+    {
+      "id":19,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem19.webp"
+    },
+    {
+      "id":20,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem20.webp"
+    },
+	{
+      "id":21,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem21.webp"
+    },
+    {
+      "id": 22,
+      "name_category": "Seventeen Wallpaper 1",
+      "title": "Seventeen Wallpaper",
+      "image": "file:///android_asset/image/itxem22.webp"
+    },
+    {
+      "id":23,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem23.webp"
+    },
+    {
+      "id":24,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem24.webp"
+    },
+    {
+      "id":25,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem25.webp"
+    },
+    {
+      "id":26,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem26.webp"
+    },
+    {
+      "id":27,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem27.webp"
+    },
+    {
+      "id":28,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem28.webp"
+    },
+    {
+      "id":29,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem29.webp"
+    },
+    {
+      "id":30,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem30.webp"
+    },
+	{
+      "id":31,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem31.webp"
+    },
+    {
+      "id": 32,
+      "name_category": "Seventeen Wallpaper 1",
+      "title": "Seventeen Wallpaper",
+      "image": "file:///android_asset/image/itxem32.webp"
+    },
+    {
+      "id":33,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem33.webp"
+    },
+    {
+      "id":34,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem34.webp"
+    },
+    {
+      "id":35,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem35.webp"
+    },
+    {
+      "id":36,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem36.webp"
+    },
+    {
+      "id":37,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem37.webp"
+    },
+    {
+      "id":38,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem38.webp"
+    },
+    {
+      "id":39,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem39.webp"
+    },
+    {
+      "id":40,
+      "name_category": "Seventeen Wallpaper 1",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem40.webp"
+    },
+	{
+      "id":41,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem41.webp"
+    },
+    {
+      "id": 42,
+      "name_category": "Seventeen Wallpaper 2",
+      "title": "Seventeen Wallpaper",
+      "image": "file:///android_asset/image/itxem42.webp"
+    },
+    {
+      "id":43,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem43.webp"
+    },
+    {
+      "id":44,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem44.webp"
+    },
+    {
+      "id":45,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem45.webp"
+    },
+    {
+      "id":46,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem46.webp"
+    },
+    {
+      "id":47,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem47.webp"
+    },
+    {
+      "id":48,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem48.webp"
+    },
+    {
+      "id":49,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem49.webp"
+    },
+    {
+      "id":50,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem50.webp"
+    },
+	{
+      "id":51,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem51.webp"
+    },
+    {
+      "id": 52,
+      "name_category": "Seventeen Wallpaper 2",
+      "title": "Seventeen Wallpaper",
+      "image": "file:///android_asset/image/itxem52.webp"
+    },
+    {
+      "id":53,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem53.webp"
+    },
+    {
+      "id":54,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem54.webp"
+    },
+    {
+      "id":55,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem55.webp"
+    },
+    {
+      "id":56,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem56.webp"
+    },
+    {
+      "id":57,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem57.webp"
+    },
+    {
+      "id":58,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem58.webp"
+    },
+    {
+      "id":59,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem59.webp"
+    },
+    {
+      "id":60,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem60.webp"
+    },
+	{
+      "id":61,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem61.webp"
+    },
+    {
+      "id": 62,
+      "name_category": "Seventeen Wallpaper 2",
+      "title": "Seventeen Wallpaper",
+      "image": "file:///android_asset/image/itxem62.webp"
+    },
+    {
+      "id":63,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem63.webp"
+    },
+    {
+      "id":64,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem64.webp"
+    },
+    {
+      "id":65,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem65.webp"
+    },
+    {
+      "id":66,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem66.webp"
+    },
+    {
+      "id":67,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem67.webp"
+    },
+    {
+      "id":68,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem68.webp"
+    },
+    {
+      "id":69,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem69.webp"
+    },
+    {
+      "id":70,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem70.webp"
+    },
+	{
+      "id":71,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem71.webp"
+    },
+    {
+      "id": 72,
+      "name_category": "Seventeen Wallpaper 2",
+      "title": "Seventeen Wallpaper",
+      "image": "file:///android_asset/image/itxem72.webp"
+    },
+    {
+      "id":73,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem73.webp"
+    },
+    {
+      "id":74,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem74.webp"
+    },
+    {
+      "id":75,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem75.webp"
+    },
+    {
+      "id":76,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem76.webp"
+    },
+    {
+      "id":77,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem77.webp"
+    },
+    {
+      "id":78,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem78.webp"
+    },
+    {
+      "id":79,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem79.webp"
+    },
+    {
+      "id":80,
+      "name_category": "Seventeen Wallpaper 2",
+      "title":"Seventeen Wallpaper",
+      "image":"file:///android_asset/image/itxem80.webp"
+    }
+  ]
+}
