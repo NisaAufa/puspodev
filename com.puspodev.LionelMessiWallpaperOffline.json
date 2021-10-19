@@ -1,0 +1,244 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-3940256099942544/630097811x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/103317371x",
+      "native_for_admob":"ca-app-pub-3940256099942544/224769611x",
+      "backup_ads_banner":"ca-app-pub-3940256099942544/630097811x",
+      "backup_ads_intertitial":"ca-app-pub-3940256099942544/103317371x",
+      "interval_intertitial": 15,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Messi Wallpaper 1",
+      "image": "file:///android_asset/image/itxem1.webp"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Messi Wallpaper 2",
+      "image": "file:///android_asset/image/itxem16.webp"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Messi Wallpaper 1",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem1.webp"
+    },
+    {
+      "id": 2,
+      "name_category": "Messi Wallpaper 1",
+      "title": "Messi Wallpaper",
+      "image": "file:///android_asset/image/itxem2.webp"
+    },
+    {
+      "id":3,
+      "name_category": "Messi Wallpaper 1",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem3.webp"
+    },
+    {
+      "id":4,
+      "name_category": "Messi Wallpaper 1",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem4.webp"
+    },
+    {
+      "id":5,
+      "name_category": "Messi Wallpaper 1",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem5.webp"
+    },
+    {
+      "id":6,
+      "name_category": "Messi Wallpaper 1",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem6.webp"
+    },
+    {
+      "id":7,
+      "name_category": "Messi Wallpaper 1",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem7.webp"
+    },
+    {
+      "id":8,
+      "name_category": "Messi Wallpaper 1",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem8.webp"
+    },
+    {
+      "id":9,
+      "name_category": "Messi Wallpaper 1",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem9.webp"
+    },
+    {
+      "id":10,
+      "name_category": "Messi Wallpaper 1",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem10.webp"
+    },
+	{
+      "id":11,
+      "name_category": "Messi Wallpaper 1",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem11.webp"
+    },
+    {
+      "id": 12,
+      "name_category": "Messi Wallpaper 1",
+      "title": "Messi Wallpaper",
+      "image": "file:///android_asset/image/itxem12.webp"
+    },
+    {
+      "id":13,
+      "name_category": "Messi Wallpaper 1",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem13.webp"
+    },
+    {
+      "id":14,
+      "name_category": "Messi Wallpaper 1",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem14.webp"
+    },
+    {
+      "id":15,
+      "name_category": "Messi Wallpaper 1",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem15.webp"
+    },
+    {
+      "id":16,
+      "name_category": "Messi Wallpaper 2",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem16.webp"
+    },
+    {
+      "id":17,
+      "name_category": "Messi Wallpaper 2",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem17.webp"
+    },
+    {
+      "id":18,
+      "name_category": "Messi Wallpaper 2",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem18.webp"
+    },
+    {
+      "id":19,
+      "name_category": "Messi Wallpaper 2",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem19.webp"
+    },
+    {
+      "id":20,
+      "name_category": "Messi Wallpaper 2",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem20.webp"
+    },
+	{
+      "id":21,
+      "name_category": "Messi Wallpaper 2",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem21.webp"
+    },
+    {
+      "id": 22,
+      "name_category": "Messi Wallpaper 2",
+      "title": "Messi Wallpaper",
+      "image": "file:///android_asset/image/itxem22.webp"
+    },
+    {
+      "id":23,
+      "name_category": "Messi Wallpaper 2",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem23.webp"
+    },
+    {
+      "id":24,
+      "name_category": "Messi Wallpaper 2",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem24.webp"
+    },
+    {
+      "id":25,
+      "name_category": "Messi Wallpaper 2",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem25.webp"
+    },
+    {
+      "id":26,
+      "name_category": "Messi Wallpaper 2",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem26.webp"
+    },
+    {
+      "id":27,
+      "name_category": "Messi Wallpaper 2",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem27.webp"
+    },
+    {
+      "id":28,
+      "name_category": "Messi Wallpaper 2",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem28.webp"
+    },
+    {
+      "id":29,
+      "name_category": "Messi Wallpaper 2",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem29.webp"
+    },
+    {
+      "id":30,
+      "name_category": "Messi Wallpaper 2",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem30.webp"
+    },
+	{
+      "id":31,
+      "name_category": "Messi Wallpaper 2",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem31.webp"
+    },
+    {
+      "id": 32,
+      "name_category": "Messi Wallpaper 2",
+      "title": "Messi Wallpaper",
+      "image": "file:///android_asset/image/itxem32.webp"
+    },
+    {
+      "id":33,
+      "name_category": "Messi Wallpaper 2",
+      "title":"Messi Wallpaper",
+      "image":"file:///android_asset/image/itxem33.webp"
+    }
+  ]
+}
