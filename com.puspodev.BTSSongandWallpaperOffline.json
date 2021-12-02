@@ -1,0 +1,183 @@
+{
+"Ads": [
+{
+
+//  STATUS_APP = "0" must set 0 if your app still live on playstore
+//  and STATUS_APP = "1" if your app "suspend"
+//  fill LINK_REDIRECT with new link app
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+
+// memanggil data dari json "online" atau json "offline"
+//  online atau offline
+// jika online maka akan memanggil data mp3 wallpaper yang ada di json online kalian
+//  jika offline maka akan mmanggil data mp3 wallpaper yang ada di json folder asset
+// online offline huruf kecil
+"MODE_MP3_ONLINE_OFFLINE" : "online",
+
+
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : true,
+"ADS_ON_START" : false, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+
+"JSON_POPUP_WAIT" : "Server Json Ready . . .",
+"MODE_NO_ADS_TRUE" : "Pro Version Actived",
+
+// PENGATURAN IKLAN
+// ADMOB      backup unity backup startapp
+// FAN        backup unity backup startapp
+// UNITY      backup startapp
+// TAPDAQ     backup unity backup startapp
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"INTER_COUNT" : 20,
+
+"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_OPENADS" : "BIARKAN KOSONG",
+
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "12345",
+
+"STARTAPPID" : "123154",
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+
+"TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
+"TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
+
+//  Exit Dialog
+//  Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+//  help give us a 5 star rating, so we keep the spirit of providing the latest updates
+//  jika shre button "true" maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"EXIT_POPUP_DIALOG" : "
+help give us a 5 star rating
+
+so we keep the spirit of providing the latest updates
+
+click rate now button
+",
+"RATE_BUTTON" : "Rate Now",
+"LATER_BUTTON" : "Rate Later",
+"ENABLE_SHARE_BUTTON" : true,
+"SHARE_TXT" : "
+this the best apps ever, ive try it and so awesome
+
+you need to try download this too bro
+",
+"MORE_BUTTON" : "Share Via Whatsapp",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.puspodev.BTSSongandWallpaperOffline"
+
+}
+]
+,"Mp3": [
+
+  {    "name_mp3": "Black Swan",    "link_mp3": "1BlackSwan.mp3"  },
+  {    "name_mp3": "Boy with Luv feat Halsey",    "link_mp3": "2BoywithLuvfeatHalsey.mp3"  },
+  {    "name_mp3": "Butter",    "link_mp3": "3Butter.mp3"  },
+  {    "name_mp3": "Danger",    "link_mp3": "4Danger.mp3"  },
+  {    "name_mp3": "Dionysus",    "link_mp3": "5Dionysus.mp3"  },
+  {    "name_mp3": "DNA",    "link_mp3": "6DNA.mp3"  },
+  {    "name_mp3": "DOPE",    "link_mp3": "7DOPE.mp3"  },
+  {    "name_mp3": "Dynamite",    "link_mp3": "8Dynamite.mp3"  },
+  {    "name_mp3": "Film Out",    "link_mp3": "9FilmOut.mp3"  },
+  {    "name_mp3": "FIRE",    "link_mp3": "10FIRE.mp3"  },
+  {    "name_mp3": "Heart beat",    "link_mp3": "11Heartbeat.mp3"  },
+  {    "name_mp3": "I NEED U",    "link_mp3": "12INEEDU.mp3"  },
+  {    "name_mp3": "IDOL",    "link_mp3": "13IDOL.mp3"  },
+  {    "name_mp3": "Life Goes On",    "link_mp3": "14LifeGoesOn.mp3"  },
+  {    "name_mp3": "MIC Drop",    "link_mp3": "15MICDrop.mp3"  },
+  {    "name_mp3": "ON",    "link_mp3": "16ON.mp3"  },
+  {    "name_mp3": "Permission to Dance",    "link_mp3": "17PermissiontoDance.mp3"  },
+  {    "name_mp3": "Pied Piper",    "link_mp3": "18PiedPiper.mp3"  },
+  {    "name_mp3": "We are Bulletproof",    "link_mp3": "19WeareBulletproof.mp3"  }
+
+
+],
+"Wallpaper": [
+
+ {    "image": "file:///android_asset/01itexm.webp"  },
+ {    "image": "file:///android_asset/02itexm.webp"  },
+ {    "image": "file:///android_asset/03itexm.webp"  },
+ {    "image": "file:///android_asset/04itexm.webp"  },
+ {    "image": "file:///android_asset/05itexm.webp"  },
+ {    "image": "file:///android_asset/06itexm.webp"  },
+ {    "image": "file:///android_asset/07itexm.webp"  },
+ {    "image": "file:///android_asset/08itexm.webp"  },
+ {    "image": "file:///android_asset/09itexm.webp"  },
+ {    "image": "file:///android_asset/10itexm.webp"  },
+ {    "image": "file:///android_asset/11itexm.webp"  },
+ {    "image": "file:///android_asset/12itexm.webp"  },
+ {    "image": "file:///android_asset/13itexm.webp"  },
+ {    "image": "file:///android_asset/14itexm.webp"  },
+ {    "image": "file:///android_asset/15itexm.webp"  },
+ {    "image": "file:///android_asset/16itexm.webp"  },
+ {    "image": "file:///android_asset/17itexm.webp"  },
+ {    "image": "file:///android_asset/18itexm.webp"  },
+ {    "image": "file:///android_asset/19itexm.webp"  },
+ {    "image": "file:///android_asset/20itexm.webp"  },
+ {    "image": "file:///android_asset/21itexm.webp"  },
+ {    "image": "file:///android_asset/22itexm.webp"  },
+ {    "image": "file:///android_asset/23itexm.webp"  },
+ {    "image": "file:///android_asset/24itexm.webp"  },
+ {    "image": "file:///android_asset/25itexm.webp"  },
+ {    "image": "file:///android_asset/26itexm.webp"  },
+ {    "image": "file:///android_asset/27itexm.webp"  },
+ {    "image": "file:///android_asset/28itexm.webp"  },
+ {    "image": "file:///android_asset/29itexm.webp"  },
+ {    "image": "file:///android_asset/30itexm.webp"  },
+ {    "image": "file:///android_asset/31itexm.webp"  },
+ {    "image": "file:///android_asset/32itexm.webp"  },
+ {    "image": "file:///android_asset/33itexm.webp"  },
+ {    "image": "file:///android_asset/34itexm.webp"  },
+ {    "image": "file:///android_asset/35itexm.webp"  },
+ {    "image": "file:///android_asset/36itexm.webp"  },
+ {    "image": "file:///android_asset/37itexm.webp"  },
+ {    "image": "file:///android_asset/38itexm.webp"  },
+ {    "image": "file:///android_asset/39itexm.webp"  },
+ {    "image": "file:///android_asset/40itexm.webp"  },
+ {    "image": "file:///android_asset/41itexm.webp"  },
+ {    "image": "file:///android_asset/42itexm.webp"  },
+ {    "image": "file:///android_asset/43itexm.webp"  },
+ {    "image": "file:///android_asset/44itexm.webp"  },
+ {    "image": "file:///android_asset/45itexm.webp"  },
+ {    "image": "file:///android_asset/46itexm.webp"  },
+ {    "image": "file:///android_asset/47itexm.webp"  },
+ {    "image": "file:///android_asset/48itexm.webp"  },
+ {    "image": "file:///android_asset/49itexm.webp"  },
+ {    "image": "file:///android_asset/50itexm.webp"  },
+ {    "image": "file:///android_asset/51itexm.webp"  },
+ {    "image": "file:///android_asset/52itexm.webp"  },
+ {    "image": "file:///android_asset/53itexm.webp"  },
+ {    "image": "file:///android_asset/54itexm.webp"  },
+ {    "image": "file:///android_asset/55itexm.webp"  },
+ {    "image": "file:///android_asset/56itexm.webp"  },
+ {    "image": "file:///android_asset/57itexm.webp"  },
+ {    "image": "file:///android_asset/58itexm.webp"  },
+ {    "image": "file:///android_asset/59itexm.webp"  },
+ {    "image": "file:///android_asset/60itexm.webp"  },
+ {    "image": "file:///android_asset/61itexm.webp"  },
+ {    "image": "file:///android_asset/62itexm.webp"  },
+ {    "image": "file:///android_asset/63itexm.webp"  },
+ {    "image": "file:///android_asset/64itexm.webp"  },
+ {    "image": "file:///android_asset/65itexm.webp"  },
+ {    "image": "file:///android_asset/66itexm.webp"  },
+ {    "image": "file:///android_asset/67itexm.webp"  },
+ {    "image": "file:///android_asset/68itexm.webp"  },
+ {    "image": "file:///android_asset/69itexm.webp"  },
+ {    "image": "file:///android_asset/70itexm.webp"  },
+ {    "image": "file:///android_asset/71itexm.webp"  },
+ {    "image": "file:///android_asset/72itexm.webp"  },
+ {    "image": "file:///android_asset/73itexm.webp"  },
+ {    "image": "file:///android_asset/74itexm.webp"  },
+ {    "image": "file:///android_asset/75itexm.webp"  }
+ 
+
+]
+}
