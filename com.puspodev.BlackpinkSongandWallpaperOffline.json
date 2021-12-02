@@ -1,0 +1,166 @@
+{
+"Ads": [
+{
+
+//  STATUS_APP = "0" must set 0 if your app still live on playstore
+//  and STATUS_APP = "1" if your app "suspend"
+//  fill LINK_REDIRECT with new link app
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+
+// memanggil data dari json "online" atau json "offline"
+//  online atau offline
+// jika online maka akan memanggil data mp3 wallpaper yang ada di json online kalian
+//  jika offline maka akan mmanggil data mp3 wallpaper yang ada di json folder asset
+// online offline huruf kecil
+"MODE_MP3_ONLINE_OFFLINE" : "online",
+
+
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : true,
+"ADS_ON_START" : false, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+
+"JSON_POPUP_WAIT" : "Server Json Ready . . .",
+"MODE_NO_ADS_TRUE" : "Pro Version Actived",
+
+// PENGATURAN IKLAN
+// ADMOB      backup unity backup startapp
+// FAN        backup unity backup startapp
+// UNITY      backup startapp
+// TAPDAQ     backup unity backup startapp
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"INTER_COUNT" : 20,
+
+"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_OPENADS" : "BIARKAN KOSONG",
+
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "12345",
+
+"STARTAPPID" : "123154",
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+
+"TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
+"TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
+
+//  Exit Dialog
+//  Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+//  help give us a 5 star rating, so we keep the spirit of providing the latest updates
+//  jika shre button "true" maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"EXIT_POPUP_DIALOG" : "
+help give us a 5 star rating
+
+so we keep the spirit of providing the latest updates
+
+click rate now button
+",
+"RATE_BUTTON" : "Rate Now",
+"LATER_BUTTON" : "Rate Later",
+"ENABLE_SHARE_BUTTON" : true,
+"SHARE_TXT" : "
+this the best apps ever, ive try it and so awesome
+
+you need to try download this too bro
+",
+"MORE_BUTTON" : "Share Via Whatsapp",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.puspodev.BTSSongandWallpaperOffline"
+
+}
+]
+,"Mp3": [
+
+  {    "name_mp3": "GONE ROSE",    "link_mp3": "01GONE-ROSE.mp3"  },
+  {    "name_mp3": "LALISA LISA",    "link_mp3": "02LALISA-LISA.mp3"  },
+  {    "name_mp3": "MONEY LISA",    "link_mp3": "03MONEY-LISA.mp3"  },
+  {    "name_mp3": "HOW YOU LIKE THAT",    "link_mp3": "04HOWYOULIKETHAT.mp3"  },
+  {    "name_mp3": "LOVE SICK GIRL",    "link_mp3": "05LOVESICKGIRL.mp3"  },
+  {    "name_mp3": "PRETTY SAVAGE",    "link_mp3": "06PRETTYSAVAGE.mp3"  },
+  {    "name_mp3": "ICE CREAM",    "link_mp3": "07ICECREAM.mp3"  },
+  {    "name_mp3": "LOVE TO HATE ME",    "link_mp3": "08LOVETOHATEME.mp3"  },
+  {    "name_mp3": "YOU NEVER KNOW",    "link_mp3": "09YOUNEVERKNOW.mp3"  },
+  {    "name_mp3": "BET YOU WANNA",    "link_mp3": "10BETYOUWANNA.mp3"  },
+  {    "name_mp3": "CRAZY OVER YOU",    "link_mp3": "11CRAZYOVERYOU.mp3"  },
+  {    "name_mp3": "KISS AND MAKE UP",    "link_mp3": "12KISSANDMAKEUP.mp3"  },
+  {    "name_mp3": "DDU-DUDDU-DU",    "link_mp3": "13DDU-DUDDU-DU.mp3"  },
+  {    "name_mp3": "KICK IT",    "link_mp3": "14KICKIT.mp3"  },
+  {    "name_mp3": "SOLO",    "link_mp3": "15SOLO.mp3"  },
+  {    "name_mp3": "FOREVER YOUNG",    "link_mp3": "16FOREVERYOUNG.mp3"  },
+  {    "name_mp3": "SEE U LATER",    "link_mp3": "17SEEULATER.mp3"  },
+  {    "name_mp3": "SOUR CANDY",    "link_mp3": "18SOURCANDY.mp3"  },
+  {    "name_mp3": "STAY",    "link_mp3": "19STAY.mp3"  },
+  {    "name_mp3": "AS IF ITS YOUR LAST",    "link_mp3": "20ASIFITSYOURLAST.mp3"  },
+  {    "name_mp3": "BOOMBAYAH",    "link_mp3": "21BOOMBAYAH.mp3"  },
+  {    "name_mp3": "DONT KNOW WHAT TO DO",    "link_mp3": "22DONTKNOWWHATTODO.mp3"  },
+  {    "name_mp3": "HOPE NOT",    "link_mp3": "23HOPENOT.mp3"  },
+  {    "name_mp3": "KILL THIS LOVE",    "link_mp3": "24KILLTHISLOVE.mp3"  },
+  {    "name_mp3": "PLAYING WITH FIRE",    "link_mp3": "25PLAYINGWITHFIRE.mp3"  },
+  {    "name_mp3": "REALLY",    "link_mp3": "26REALLY.mp3"  },
+  {    "name_mp3": "SO HOT",    "link_mp3": "27SOHOT.mp3"  },
+  {    "name_mp3": "WHISTLE",    "link_mp3": "28WHISTLE.mp3"  }
+
+
+],
+"Wallpaper": [
+
+ {    "image": "file:///android_asset/01itexm.webp"  },
+ {    "image": "file:///android_asset/02itexm.webp"  },
+ {    "image": "file:///android_asset/03itexm.webp"  },
+ {    "image": "file:///android_asset/04itexm.webp"  },
+ {    "image": "file:///android_asset/05itexm.webp"  },
+ {    "image": "file:///android_asset/06itexm.webp"  },
+ {    "image": "file:///android_asset/07itexm.webp"  },
+ {    "image": "file:///android_asset/08itexm.webp"  },
+ {    "image": "file:///android_asset/09itexm.webp"  },
+ {    "image": "file:///android_asset/10itexm.webp"  },
+ {    "image": "file:///android_asset/11itexm.webp"  },
+ {    "image": "file:///android_asset/12itexm.webp"  },
+ {    "image": "file:///android_asset/13itexm.webp"  },
+ {    "image": "file:///android_asset/14itexm.webp"  },
+ {    "image": "file:///android_asset/15itexm.webp"  },
+ {    "image": "file:///android_asset/16itexm.webp"  },
+ {    "image": "file:///android_asset/17itexm.webp"  },
+ {    "image": "file:///android_asset/18itexm.webp"  },
+ {    "image": "file:///android_asset/19itexm.webp"  },
+ {    "image": "file:///android_asset/20itexm.webp"  },
+ {    "image": "file:///android_asset/21itexm.webp"  },
+ {    "image": "file:///android_asset/22itexm.webp"  },
+ {    "image": "file:///android_asset/23itexm.webp"  },
+ {    "image": "file:///android_asset/24itexm.webp"  },
+ {    "image": "file:///android_asset/25itexm.webp"  },
+ {    "image": "file:///android_asset/26itexm.webp"  },
+ {    "image": "file:///android_asset/27itexm.webp"  },
+ {    "image": "file:///android_asset/28itexm.webp"  },
+ {    "image": "file:///android_asset/29itexm.webp"  },
+ {    "image": "file:///android_asset/30itexm.webp"  },
+ {    "image": "file:///android_asset/31itexm.webp"  },
+ {    "image": "file:///android_asset/32itexm.webp"  },
+ {    "image": "file:///android_asset/33itexm.webp"  },
+ {    "image": "file:///android_asset/34itexm.webp"  },
+ {    "image": "file:///android_asset/35itexm.webp"  },
+ {    "image": "file:///android_asset/36itexm.webp"  },
+ {    "image": "file:///android_asset/37itexm.webp"  },
+ {    "image": "file:///android_asset/38itexm.webp"  },
+ {    "image": "file:///android_asset/39itexm.webp"  },
+ {    "image": "file:///android_asset/40itexm.webp"  },
+ {    "image": "file:///android_asset/41itexm.webp"  },
+ {    "image": "file:///android_asset/42itexm.webp"  },
+ {    "image": "file:///android_asset/43itexm.webp"  },
+ {    "image": "file:///android_asset/44itexm.webp"  },
+ {    "image": "file:///android_asset/45itexm.webp"  },
+ {    "image": "file:///android_asset/46itexm.webp"  },
+ {    "image": "file:///android_asset/47itexm.webp"  },
+ {    "image": "file:///android_asset/48itexm.webp"  },
+ {    "image": "file:///android_asset/49itexm.webp"  },
+ {    "image": "file:///android_asset/50itexm.webp"  }
+
+]
+}
